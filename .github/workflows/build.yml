@@ -1,5 +1,5 @@
 name: Run ESLint
-    on: push
+on: push
       jobs:
         eslint:
           runs-on: ubuntu-latest 
